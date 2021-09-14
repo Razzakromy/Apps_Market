@@ -1,0 +1,200 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,700&family=Roboto:wght@400;500&display=swap');
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.top-sec {
+  background: #8d8fdb;
+  height: 650px;
+  color: #fff !important;
+}
+
+.download-btn {
+  background: #fff;
+  font-weight: 500;
+}
+
+.explore-btn {
+  color: #fff;
+}
+
+.hero-text {
+  font-size: 16px;
+}
+
+.service {
+  background: #f9f9ff;
+  height: 700px;
+  text-align: center;
+  padding: 20px;
+}
+
+
+.service-text {
+  font-size: 16px;
+  color: #707070;
+}
+
+.services-text {
+  font-size: 16px;
+  color: #6b6b6b;
+}
+
+.box {
+  box-shadow: 0px 7px 30px -15px rgba(102,102,102,0.86);
+  border-radius: 16px;
+  border: 0;
+}
+
+.why-sec {
+  background: #f9f9ff;
+  height: 750px;
+  padding: 20px;
+}
+
+.why-text {
+  color: #979799;
+  font-size: 16px;
+}
+
+.get-more-btn {
+  border: 1px solid #0d13d7;
+}
+
+.projects {
+  background: #f9f9ff;
+  height: 325px;
+  padding: 20px;
+}
+
+.projects-heading {
+  color: #1453ff;
+}
+
+.projects-text {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.projects-icon {
+  font-size: 80px;
+  color: #1453ff;
+}
+
+
+.portfolio-sec {
+  background: #f9f9ff;
+  height: 780px;
+  padding: 20px;
+}
+
+.feedback-sec {
+  background: #f9f9ff;
+  height: 650px;
+  padding: 20px;
+}
+
+.read-btn {
+  background: #f3f3f3;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+.clients-col {
+  background: #efeffe;
+}
+
+.fa.fa-star {
+  padding: 8px;
+  color: #333697;
+}
+
+.feedback-text {
+  font-size: 16px;
+}
+
+.feedback-img {
+  width: 150%;
+}
+
+.feedback-content {
+  padding-top: 10px;
+}
+
+.manager {
+  font-size: 14px;
+}
+
+.contact-us {
+  background: #333697;
+  height: 150px;
+  padding: 20px;
+  border-radius: 15px;
+  width: 800px;
+  margin: 0 auto;
+  color: #fff;
+  position: relative;
+  top: -76px;
+}
+
+.contact-text {
+  font-size: 16px;
+}
+
+.email {
+  border-radius: 22px;
+  padding: 10px 20px;
+  position: absolute;
+  width: 45%;
+}
+
+.send-btn {
+  background: #333697;
+  border-radius: 23px;
+  position: relative;
+  border: 0;
+  padding: 6px 42px;
+  left: 230px;
+  top: 5.4px;
+}
+
+.footer-sec {
+  background: #ebebf8;
+  height: 250px;
+  position: absolute;
+}
+
+
+
+.footer {
+  background: #ebebf8;
+  height: 410px;
+  font-size: 17px;
+}
+
+
+.link {
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+}
+
+.links {
+  display: block;
+  text-decoration: none;
+  color: #8a8a8a;
+  padding: 3px 0;
+}
+
+
+.copyright {
+  font-size: 14px;
+  color: #8a8a8a;
+}
+
